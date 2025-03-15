@@ -1,0 +1,59 @@
+TY  - CONF
+AB  - The concept of Dynamic Difficulty Adjustment (DDA) refers to software techniques that make a game adjust itself in real time to make the game better fit the player's abilities and therefore to improve his/her gaming experience. But DDA can also be used to improve and render more effective the training of e-sports players by creating even more challenging environments that always push the gamer to his/her limits. This article presents a first step towards that objective: in this study, the First-Person Shooter (FPS) game Half-Life was modified to allow several game mechanics (and, accordingly, the game's difficulty) to be adjusted in real-time creating what was expected to be an improved and more immersive experience to the player. The DDA algorithm makes these adjustments according to the previous actions of the player and towards a predefined performance goal. Preliminary results with a group of e-sports players showed positive results in terms of their perceived experience.
+AU  - Knorr, Johann
+AU  - Vaz De Carvalho, Carlos
+DA  - 2021/10//
+DO  - 10.1145/3486011.3486447
+KW  - Dynamic Difficulty Adjustment
+KW  - First-Person Shooter
+KW  - Game-Based Training
+KW  - Serious Games
+PB  - Association for Computing Machinery
+PY  - 2021
+SN  - 9781450390668
+SP  - 195
+EP  - 200
+TI  - Using Dynamic Difficulty Adjustment to Improve the Experience and Train FPS Gamers
+T2  - ACM International Conference Proceeding Series
+ER  -
+TY  - CONF
+AB  - The difficulty of a game is intrinsically connected with the experience of immersion in it and with its success. One of the main reasons for a player to drop a game is that the game is either too easy or too hard for him/her. In practice, players become either bored or frustrated if playing a game that is not balanced for them. An approach to prevent this kind of behavior is to dynamically adjust the difficulty of a game so that the game adapts to the player's experience by evaluating the difficulty of a game and changing its environment to become easier or harder for the player. In this paper, we propose a real-time solution using a Genetic Algorithm which helps to provide the exact amount of challenge that a player needs to not be bored or frustrated thus balancing the difficulty of a game. We review several other papers that approached this problem, which characteristics an algorithm has to have to approach the problem, and how to balance this in a generic way. The main idea of this paper is to create an approach that can be modified and coupled to any kind of game by using a Genetic Algorithm.
+AU  - Weber, Matheus
+AU  - Notargiacomo, Pollyana
+DA  - 2020/11//
+DO  - 10.1109/SBGames51465.2020.00019
+KW  - Artificial intelligence
+KW  - Digital games
+KW  - Dynamic difficult adjustment
+KW  - Dynamic difficulty balance
+KW  - Genetic algorithm
+PB  - IEEE Computer Society
+PY  - 2020
+SN  - 9781728184326
+SP  - 62
+EP  - 70
+TI  - Dynamic difficulty adjustment in digital games using genetic algorithms
+T2  - Brazilian Symposium on Games and Digital Entertainment, SBGAMES
+VL  - 2020-November
+ER  -
+TY  - JOUR
+AB  - While educational games have been increasingly popular in education, insufficient studies have comprehensively reviewed their effectiveness. To complement this missing link, this study explored game-based learning outcomes including academic achievements, problem-solving, and critical thinking abilities, knowledge, learning efficiency, skills, student attitudes, and behaviors. Both negative and positive effects of educational games on motivation were also explored based on comprehensive literature analysis. The role of engagement in game-based learning was studied, coupled with the ways to enhance student engagement. We also explored the importance of gamified components in student satisfaction and provided constructive suggestions for designers and practitioners. Future research should highlight learning analytics and data mining techniques of educational game-based learning and try to find out solutions to address various problems to improve the effectiveness of educational games.
+AU  - Yu, Zhonggen
+AU  - Gao, Mingle
+AU  - Wang, Lifei
+DA  - 2021/6//
+DO  - 10.1177/0735633120969214
+IS  - 3
+KW  - educational game
+KW  - engagement
+KW  - learning outcomes
+KW  - motivation
+KW  - satisfaction
+PB  - SAGE Publications Inc.
+PY  - 2021
+SP  - 522
+EP  - 546
+TI  - The Effect of Educational Games on Learning Outcomes, Student Motivation, Engagement and Satisfaction
+T2  - Journal of Educational Computing Research
+VL  - 59
+ER  -
