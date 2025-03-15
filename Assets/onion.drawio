@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="26.1.1">
+  <diagram name="Page-1" id="g5_XZ1TKYTlNIeDCLIn8">
+    <mxGraphModel dx="1387" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uAA5PFPp15Q0VxNGWSXk-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Positivism&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=right;" parent="1" vertex="1">
+          <mxGeometry x="61" y="100" width="706" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="uAA5PFPp15Q0VxNGWSXk-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Deductive&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=right;" parent="1" vertex="1">
+          <mxGeometry x="61" y="130" width="619" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="uAA5PFPp15Q0VxNGWSXk-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Experimental&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=right;" parent="1" vertex="1">
+          <mxGeometry x="60.00000000000001" y="170" width="525.32" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="uAA5PFPp15Q0VxNGWSXk-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Cross Sectional&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=right;" parent="1" vertex="1">
+          <mxGeometry x="61" y="222.5" width="432.71" height="305" as="geometry" />
+        </mxCell>
+        <mxCell id="uAA5PFPp15Q0VxNGWSXk-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Gameplay Data&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Survey Feedback&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Data Comparison&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Analysis of Player Responses&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="60" y="258.13" width="331.62" height="233.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
