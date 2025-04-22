@@ -57,3 +57,223 @@ TI  - The Effect of Educational Games on Learning Outcomes, Student Motivation, 
 T2  - Journal of Educational Computing Research
 VL  - 59
 ER  -
+TY  - JOUR
+AB  - In this paper, we reflect on the implementation of a gamified application for helping students learn important facts about their study program. We focus on two design features, of which different configurations were tested in a field experiment among Dutch university students (N = 101). The first feature is feedback, which is expected to increase engagement, with personalized (“tailored”) feedback being more effective than generic feedback. The second feature is a session limit that was designed to prevent users from “binging” the game, because this could prevent deep learning. Results showed that generic feedback was more effective than tailored feedback, contrasting our expectations. The session limit, however, did prevent binging without reducing the overall number of sessions played. Our findings suggest that careful consideration of game properties may impact sustaining and encouraging play via a gamified application.
+AU  - Welbers, Kasper
+AU  - Konijn, Elly A.
+AU  - Burgers, Christian
+AU  - de Vaate, Anna Bij
+AU  - Eden, Allison
+AU  - Brugman, Britta C.
+DA  - 2019/3//
+DO  - 10.1177/2042753018818342
+IS  - 2
+KW  - Gamification
+KW  - adaptive learning
+KW  - distributed practice
+KW  - education
+KW  - feedback
+PB  - SAGE Publications Inc.
+PY  - 2019
+SP  - 92
+EP  - 109
+TI  - Gamification as a tool for engaging student learning: A field experiment with a gamified app
+T2  - E-Learning and Digital Media
+VL  - 16
+ER  -
+TY  - CHAP
+AB  - In computer science, the concept of user experience has proven to be beneficial in order to improve the quality of interaction between software and its users, by taking users’ emotions and attitudes into account. In general, user experience focuses on...
+AU  - Wiemeyer, Josef
+AU  - Nacke, Lennart
+AU  - Moser, Christiane
+AU  - ‘Floyd’ Mueller, Florian
+DO  - 10.1007/978-3-319-40612-1_9
+PB  - Springer International Publishing
+PY  - 2016
+SP  - 243
+EP  - 271
+TI  - Player Experience
+T2  - Serious Games
+ER  -
+TY  - RPRT
+AB  - Player experience is a significant parameter in evaluating the overall success of a game, both technically and commercially. It is necessary to provide the player a game that provides: (1) satisfaction and (2) challenge. To enhance player experience, the game difficulty needs to be dynamically adjusted with respect to the player. Dynamic scripting is an importantlearning technique used for dynamic difficulty adjustment (DDA), already implemented successfully in commercial games of different genres. However the DDA systems are not sufficiently consistent in creating equally competent agents and do not provide equal opportunity to human players of different capabilities. This paper focuses on solving these issues by introducing these concepts: (a) dynamic weight clipping, (b) differential learning and (c) adrenalin rush. Experimental results indicate that dynamic scripting, in combination with these features, can implement an ideal DDA system for creating a equally competent computer agent who can engage the human player in absorbing games.
+AU  - James, Joy
+AU  - Arulraj, Prabhu
+KW  - Adaptive algorithm
+KW  - Adrenalin rush
+KW  - Differential learning
+KW  - Dynamic difficulty adjustment
+TI  - Adaptive Agent Generation Using Machine Learning For Dynamic Difficulty Adjustment
+ER  -
+TY  - RPRT
+AU  - Csikszentmihalyi, Mihaly
+TI  - Flow: The Psychology of Optimal Experience Flow-The Psychology of optimal experience
+UR  - https://www.researchgate.net/publication/224927532
+ER  -
+TY  - CONF
+AU  - Alam, Ashraf
+DO  - 10.1109/ICSCDS53736.2022.9760932
+KW  - Bibliographies;Education;Games;Machine learning;Learning (artificial intelligence);Data communication;Programming profession;digital game based learning;AI;ML;pedagogy;curriculum;teaching-learning;educational technology;e-learning
+PY  - 2022
+SP  - 69
+EP  - 74
+TI  - A Digital Game based Learning Approach for Effective Curriculum Transaction for Teaching-Learning of Artificial Intelligence and Machine Learning
+T2  - 2022 International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)
+ER  -
+TY  - RPRT
+AB  - User satisfaction in computer games seems to be influenced by game balance, the level of challenge faced by the user. This work presents an evaluation, performed by human players, of dynamic game balancing approaches. The results indicate that adaptive approaches are more effective. This paper also enumerates some issues encountered in evaluating users' satisfaction, in the context of games, and depicts some learned lessons.
+AU  - Andrade, Gustavo
+AU  - Ramalho, Geber
+AU  - Gomes, Alex Sandro
+AU  - Corruble, Vincent
+PY  - 2006
+TI  - Dynamic Game Balancing: an Evaluation of User Satisfaction
+UR  - www.aaai.org
+ER  -
+TY  - RPRT
+AB  - Video gaming is a firmly established leisure pursuit, which continues to grow in popularity. This paper is an examination of what motivates people to play computer games, and the relevance of such factors to the positive and negative aspects of computer gaming. When all of an individual's motivations to play video games are for the pursuit of 'fun', it is said that an intrinsic motivation is the most prevalent motivation. However, the primary motivation for playing video games among periodic gamers is different from the primary motivation of regular gamers: periodic gamers are driven by extrinsic motivation, whereas regular gamers are driven by intrinsic motivation. The pursuit of a challenge is the prevalent motivation reported by regular gamers of both genders. The Theory of Flow Experience, and the Attribution Theory have contributed to the understanding of why games may provide a safe medium, in which to learn about the consequences of actions through experience. Computer games may facilitate the development of self-monitoring and coping mechanisms. If the avoidance or escape from other activities is the primary motivation for playing video games, there tends to be an increased risk of engaging in addiction-related behaviours. This paper reports on the findings of previous research (into the motivations for playing computer games), and on industry reports containing data relating to gamer motivations. The aim is to build a picture of what motivates people to play computer games, and how motivation is associated with the main positive and negative aspects of computer gaming.
+AU  - Reid, Gavin
+IS  - 2
+PY  - 2012
+TI  - Motivation in video games: a literature review
+T2  - The Computer Games Journal
+UR  - www.computergamesjournal.com70
+VL  - 1
+ER  -
+TY  - JOUR
+AB  - Balancing is commonly considered critical to any game’s success. However, there is no consensus on what “game balancing” actually means. This paper examines fourteen publications by experienced game designers and other renowned authors. The results of a formal semantic analysis of the respective authors’ reflections prove that no two authors share identical understandings of “game balancing.” Their differing concepts of the term are analyzed and discussed in order to identify key aspects, similarities, and differences. Contrary to what one might expect, concepts such as fairness, flow, or user satisfaction are identified to be important, but no central or fundamental concepts for the definition of game balancing.
+AU  - Becker, Alexander
+AU  - Görlich, Daniel
+DA  - 2020/4//
+DO  - 10.55969/paradigmplus.v1n1a2
+IS  - 1
+PB  - ITI Research Group
+PY  - 2020
+SP  - 22
+EP  - 41
+TI  - What is Game Balancing? - An Examination of Concepts
+T2  - ParadigmPlus
+VL  - 1
+ER  -
+TY  - JOUR
+AB  - Games are important vehicles for learning and behavior change as long as players are motivated to continue playing. We study the impact of verbal feedback in stimulating player motivation and future play in a brain-training game. We conducted a 2 (feedback valence: positive vs. negative) × 3 (feedback type: descriptive, comparative, evaluative) between-subjects experiment (N = 157, 69.4% female, Mage = 32.07). After playing a brain-training game and receiving feedback, we tapped players' need satisfaction, motivation and intention to play the game again. Results demonstrate that evaluative feedback increases, while comparative feedback decreases future game play. Furthermore, negative feedback decreases players' feeling of competence, but also increases immediate game play. Positive feedback, in contrast, satisfies competence and autonomy needs, thereby boosting intrinsic motivation. Negative feedback thus motivates players to repair poor short-term performances, while positive feedback is more powerful in fostering long-term motivation and play.
+AU  - Burgers, Christian
+AU  - Eden, Allison
+AU  - Van Engelenburg, Mélisande D.
+AU  - Buningh, Sander
+DO  - 10.1016/j.chb.2015.01.038
+KW  - Feedback
+KW  - Feedback Intervention Theory (FIT)
+KW  - Motivation
+KW  - Need satisfaction
+KW  - Self Determination Theory (SDT)
+KW  - Serious gaming
+PB  - Elsevier Ltd
+PY  - 2015
+SP  - 94
+EP  - 103
+TI  - How feedback boosts motivation and play in a brain-training game
+T2  - Computers in Human Behavior
+VL  - 48
+ER  -
+TY  - JOUR
+AB  - Although a Finite State Machine (FSM) is easy to implement the behaviors of None-Player Characters (NPC) in computer games, it is difficult to maintain and control the behaviors with increasing the number of states. Alternatively, Behavior Tree (BT), which is a tree of hierarchical nodes to control the ow of decision making, is widely used in computer games to address the scalability issues. This paper reviews the structure and semantics of BTs in computer games. Different techniques to automatically learn and build BTs as well as strengths and weaknesses of these techniques are discussed. This paper provides a taxonomy of BT features and shows to what extent these features are taken into account in computer games. Finally, the paper shows how BTs are used in practice in the gaming industry.
+AU  - Sekhavat, Yoones A.
+DO  - 10.1142/S0218213017300010
+IS  - 2
+KW  - Behavior tree
+KW  - computer games
+KW  - decision making
+KW  - non-player character
+PB  - World Scientific Publishing Co. Pte Ltd
+PY  - 2017
+TI  - Behavior Trees for Computer Games
+T2  - International Journal on Artificial Intelligence Tools
+VL  - 26
+ER  -
+TY  - RPRT
+AB  - This paper introduces and motivates the application of pa-rameterization to behavior trees. As a framework, behavior trees are becoming more commonly used for agent controllers in interactive game environments. We describe a way by which behavior trees can be au-thored for acting upon functions with arguments, as opposed to being limited to nonparametric tasks. We expand upon this idea to provide a method by which a subtree itself can be encapsulated with an exposed parameter interface through a lookup node, which enables code reuse in a manner already exploited by object oriented programming languages. Parameterization also allows us to recast Smart Events (a mechanism for co-opting agents to perform a desired activity) as behavior trees that can act generically upon groups of typed agents. Finally, we introduce a tool called Topiary, which enables the graphically-oriented authoring of behavior trees with this functionality as part of a broader testbed for agent simulation.
+AU  - Shoulson, Alexander
+AU  - Garcia, Francisco M
+AU  - Jones, Matthew
+AU  - Mead, Robert
+AU  - Badler, Norman I
+KW  - Agents
+KW  - Behavior Trees
+KW  - Behavioral AI
+KW  - Smart Events
+TI  - LNCS 7060 - Parameterizing Behavior Trees
+ER  -
+TY  - CONF
+AB  - Do players find it more enjoyable to win, than to play even matches? We have made a study of what a number of players expressed after playing against computer opponents of different kinds in an RTS game. There were two static computer opponents, one that was easily beaten, and one that was hard to beat, and three dynamic ones that adapted their strength to that of the player. One of these three latter ones intentionally drops its performance in the end of the game to make it easy for the player to win. Our results indicate that the players found it more enjoyable to play an even game against an opponent that adapts to the performance of the player, than playing against an opponent with static difficulty. The results also show that when the computer player that dropped its performance to let the player win was the least enjoyable opponent of them all. ©2009 IEEE.
+AU  - Hagelbäck, Johan
+AU  - Johansson, Stefan J.
+DO  - 10.1109/CIG.2009.5286494
+PY  - 2009
+SN  - 9781424448159
+SP  - 46
+EP  - 52
+TI  - Measuring player experience on runtime dynamic difficulty scaling in an RTS game
+T2  - CIG2009 - 2009 IEEE Symposium on Computational Intelligence and Games
+ER  -
+TY  - CONF
+AB  - Dynamic Difficulty Adjustment (DDA) is used by game designers to adaptively balance game challenge against player skill during play. While many DDA implementations exist, few comparative empirical studies, if any, have been done. This study investigates the effects of DDA systems on player experience through 3 conditions: no DDA, system-oriented ramping DDA (rDDA) and player-oriented DDA (pDDA). The presence of DDA was found to produce better overall game experiences. However, we found that players in the rDDA condition experienced less self-consciousness and more transformation of time but a lower sense of control compared to the players in the pDDA condition. Our findings provide new insight into DDA, demonstrating that while DDA systems can provide superior game experiences, specific drawbacks reduce their effectiveness. These considerations are of interest to interactive system designers, extending beyond games to areas where these types of adaptive systems have beneficial applications (e.g. physiotherapy or learning).
+AU  - Ang, Dennis
+AU  - Mitchell, Alex
+DA  - 2017/10//
+DO  - 10.1145/3116595.3116623
+KW  - Challenge
+KW  - Dynamic difficulty adjustment
+KW  - Player experience
+KW  - Player-oriented
+KW  - Skill
+KW  - Video game
+PB  - Association for Computing Machinery, Inc
+PY  - 2017
+SN  - 9781450348980
+SP  - 317
+EP  - 327
+TI  - Comparing effects of dynamic difficulty adjustment systems on video game experience
+T2  - CHI PLAY 2017 - Proceedings of the Annual Symposium on Computer-Human Interaction in Play
+ER  -
+TY  - JOUR
+AB  - This paper studies the problem of automatically adjusting the difficulty level of educational exercises to facilitate learning. Previous work on this topic either relies on large data-sets or requires multiple interactions before it adjusts properly. Although this is sufficient for large-scale online courses, there are also scenarios where students are expected to only work through a few trials. In these cases, the adjustment needs to respond to only a few data points. To accommodate this, we propose a novel difficulty adjustment method that requires less data and adapts faster. Our proposed method refits an existing item response theory model to work on smaller datasets by generalizing based on attributes of the exercises. To adapt faster, we additionally introduce a discount value that weakens the influence of past interactions. We evaluate our proposed method on simulations and a user study using an example graph theory lecture. Our results show that our approach indeed succeeds in adjusting to learners quickly.
+AU  - Schütt, Anan
+AU  - Huber, Tobias
+AU  - Aslan, Ilhan
+AU  - André, Elisabeth
+DO  - 10.5281/zenodo.8115740
+KW  - Computer adaptive practice
+KW  - Dynamic difficulty adjustment
+KW  - Intelligent tutoring system
+KW  - Knowl-edge tracing
+KW  - Personalized difficulty
+PY  - 2023
+TI  - Fast Dynamic Difficulty Adjustment for Intelligent Tutoring Systems with Small Datasets
+UR  - https://doi.org/10.5281/zenodo.8115740
+ER  -
+TY  - GEN
+AB  - Dynamic difficulty adjustment (DDA) is a method of automatically modifying a game’s features, behaviors, and scenarios in real-time, depending on the player’s skill, so that the player, when the game is very simple, does not feel bored or frustrated, when it is very difficult. The intent of the DDA is to keep the player engrossed till the end and to provide him/her with a challenging experience. In traditional games, difficulty levels increase linearly or stepwise during the course of the game. The features such as frequency, starting levels, or rates can be set only at the beginning of the game by choosing a level of difficulty. This can, however, result in a negative experience for players as they try to map a predecided learning curve. DDA attempts to solve this problem by presenting a customized solution for the gamers. This paper provides a review of the current approaches to DDA.
+AU  - Zohaib, Mohammad
+DO  - 10.1155/2018/5681652
+PB  - Hindawi Limited
+PY  - 2018
+TI  - Dynamic difficulty adjustment (DDA) in computer games: A review
+T2  - Advances in Human-Computer Interaction
+VL  - 2018
+ER  -
+TY  - JOUR
+AB  - Maintaining player engagement is pivotal for video game success, yet achieving the optimal difficulty level that adapts to diverse player skills remains a significant challenge. Initial difficulty settings in games often fail to accommodate the evolving abilities of players, necessitating adaptive difficulty mechanisms to keep the gaming experience engaging. This study introduces a custom first-person-shooter (FPS) game to explore Dynamic Difficulty Adjustment (DDA) techniques, leveraging both performance metrics and emotional responses gathered from physiological sensors. Through a within-subjects experiment involving casual and experienced gamers, we scrutinized the effects of various DDA methods on player performance and self-reported game perceptions. Contrary to expectations, our research did not identify a singular, most effective DDA strategy. Instead, findings suggest a complex landscape where no one approach—be it performance-based, emotion-based, or a hybrid—demonstrably surpasses static difficulty settings in enhancing player engagement or game experience. Noteworthy is the data’s alignment with Flow Theory, suggesting potential for the Emotion DDA technique to foster engagement by matching challenges to player skill levels. However, the overall modest impact of DDA on performance metrics and emotional responses highlights the intricate challenge of designing adaptive difficulty that resonates with both the mechanical and emotional facets of gameplay. Our investigation contributes to the broader dialogue on adaptive game design, emphasizing the need for further research to refine DDA approaches. By advancing our understanding and methodologies, especially in emotion recognition, we aim to develop more sophisticated DDA strategies. These strategies aspire to dynamically align game challenges with individual player states, making games more accessible, engaging, and enjoyable for a wider audience.
+AU  - Fisher, Nicholas
+AU  - Kulshreshth, Arun K.
+DA  - 2024/6//
+DO  - 10.3390/virtualworlds3020012
+IS  - 2
+PB  - MDPI AG
+PY  - 2024
+SP  - 230
+EP  - 255
+TI  - Exploring Dynamic Difficulty Adjustment Methods for Video Games
+T2  - Virtual Worlds
+VL  - 3
+ER  -
